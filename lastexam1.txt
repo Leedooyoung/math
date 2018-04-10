@@ -580,12 +580,13 @@ x^2+y^2+z^2=(x+y+z)^2-2(xy+yz+zx)\\
 \therefore~~xy+yz+zx~를~구하면~된다.\\
 $$$$
 조건(나)에서\\
-x^2\left({1\over{y}}+{1\over{z}}+{1\over{x}}\right)+y^2\left({1\over{z}}+{1\over{x}}+{1\over{y}}\right)+z^2\left({1\over{x}+{1\over{y}}+{1\over{z}}\right)-(x+y+z)=-5\\
+x^2\left({1\over{y}}+{1\over{z}}+{1\over{x}}\right)+y^2\left({1\over{z}}+{1\over{x}}+{1\over{y}}\right)+z^2\left({1\over{x}}+{1\over{y}}+{1\over{z}}\right)-(x+y+z)=-5\\
 \therefore~~\left({1\over{x}+{1\over{y}}+{1\over{z}}\right)\left(x^2+y^2+z^2\right)=0\\
-\therefore~~{{xy+yz+zx}\over{xyz}}=0~~\left(\because~x^2+y^2+z^2\right)\ne0\\
+\therefore~~{{xy+yz+zx}\over{xyz}}=0~~\left(\because~x^2+y^2+z^2\ne0\right)\\
 \therefore~~xy+yz+zx=0\\
 \therefore~~x^2+y^2+z^2=25\\
 
+고1,문자와식,다항식,다항식의연산,곱셈공식,인수분해,변형식,내신,2017년,1학기,중간고사,낙생고,기출,15번,난이도3
 
 
 
@@ -793,3 +794,22 @@ $$$$
 \therefore~~3a+2b=12\\
 
 고1,문자와식,방정식,연립방정식,미지수가3개인연립일차방정식,해가없다,해가무수히많다,내신,2016년,1학기,중간고사,낙생고,기출,5번,난이도4
+
+
+~~{{b^2}\over{a^2}}+{{a^2}\over{b^2}}=6~일~때,~\left({{b^3}\over{a^3}}+{{a^3}\over{b^3}}\right)^2~의~값은?\\
+$$$$~~①~140~~~~~~~②~160~~~~~~~③~180~~~~~~~④~200~~~~~~~⑤~220\\$$
+
+
+④
+
+{{b^2}\over{a^2}}+{{a^2}\over{b^2}}=6~에서\\
+{{b^2}\over{a^2}}=A~로~놓자.\\
+그러면,\\
+A+{1\over{A}}=6~이고\\
+\left({{b^3}\over{a^3}}+{{a^3}\over{b^3}}\right)^2~~\Rightarrow~\left({{b}\over{a}}\right)^6+\left({{a}\over{b}}\right)^6+2~이므로\\
+A^3+\left({1\over{A}}\right)^3+2\\
+=\left(A+{1\over{A}}\right)^3-3\left(A+{1\over{A}}\right)+2\\
+=6^3-3\times6+2\\
+=200\\
+
+고1,문자와식,분수식,이차식,삼차식,변형식,치환,역수,내신,2016년,1학기,중간고사,낙생고,기출,6번,난이도4
