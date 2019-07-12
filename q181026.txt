@@ -1,10 +1,6 @@
-~~두집합A,B에대하여연산\vartriangle을A\vartriangle{B}=(A-B)\cup(B-A)로정의한다.A\vartriangle{B}=\{1,2,3,5,6,10\},A\vartriangle(A\vartriangle{B})=\{3,4,6,7,9,10\}일때,집합A의모든원소의합은?\\
+~~두~집합~A,~B에~대하여~연산~\vartriangle~을\\~A\vartriangle{B}=(A-B)\cup(B-A)~로~정의한다.\\~A\vartriangle{B}=\{1,2,3,5,6,10\},\\~A\vartriangle(A\vartriangle{B})=\{3,4,6,7,9,10\}~일~때,~집합~A의~모든~원소의~합은?\\
 $$$$~~①~27~~~~~~~②~28~~~~~~~③~29\\~~④~30~~~~~~~⑤~31\\$$
 
 $②$
 
 고1,집합,집합의정의,대칭차집합,차집합,합집합,원소,원소의합,난이도3
-
-
-
-  
