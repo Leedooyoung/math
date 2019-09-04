@@ -1,0 +1,13 @@
+~~~i^i~의~값은?\\$$
+
+$e^{-{\pi\over2}}$
+오일러공식~~~\Rightarrow~~~~e^{ix}=\cos{x}+i\sin{x}\\
+x={\pi\over2}~~대입~후~양변에~i제곱한다.\\
+오일러공식은~테일러급수에서~유도가능.\\
+e^x=1+x+{{1\over{2!}}x^2}+{{1\over{3!}}x^3}+{{1\over{4!}}x^4}+\cdots\\
+\sin{x}=x-{{1\over{3!}}x^3}+{{1\over{5!}}x^5}-{{1\over{7!}}x^7}+\cdots\\
+\cos{x}=1-{{1\over{2!}}x^2}+{{1\over{4!}}x^4}-{{1\over{6!}}x^6}+\cdots\\
+각변에~~i\theta~대입하면\\
+e^{i\theta}=\cos{\theta}+i\sin{\theta}\\
+
+허수,i,i의i제곱,오일러공식,테일러급수,이론,재미있는수학,수학
